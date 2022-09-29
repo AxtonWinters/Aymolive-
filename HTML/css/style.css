@@ -1,0 +1,38 @@
+.headpage {
+    text-align: center; color: white
+}
+
+.card-text {
+left: auto;
+
+}
+
+.card {
+    border-radius: 0%;
+    box-shadow: 5px 2.5px 2.5px rgba(78, 78, 78, 0.486);
+   
+}
+.cardback{
+    background-color: rgb(56, 55, 55);
+    color: white;
+    border-radius: 0%;
+}
+
+.back1 {
+    height : 500px;
+    background-color: rgb(24, 43, 72);
+}
+
+
+.bottompage {
+    text-align: center;
+}
+
+
+.aligns {
+    text-align: start;
+}
+
+.aligne {
+    text-align: end;
+}
